@@ -1,0 +1,16 @@
+## Interface: 110007
+## Title: MusicianFX
+## Author: Keento
+## Version: 0.0.1
+## IconTexture: Interface\Icons\inv_offhand_1h_ardenweald_d_01.blp
+## RequiredDeps: Musician
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## Notes: Enhanced Instrument pack for Musician
+
+core\MusicianFX.lua
+
+constants\MusicianFX.Constants.lua
+constants\MusicianFX.Instruments.lua
+
+locale\locale.xml
