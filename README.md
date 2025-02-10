@@ -11,6 +11,10 @@ Currently the following instruments are enhanced:
 * Piano
 * Recorder
 
+## Showcase
+
+![Showcase Video](https://www.youtube.com/watch?v=C1WafE9QJS8)
+
 ## Credits
 
 Many thanks to `Diarath - Argent Dawn EU`, who came up with the idea for this AddOn.
