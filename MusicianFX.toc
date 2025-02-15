@@ -7,7 +7,7 @@
 ## OptionalDeps: MusicianExtended
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
-## Notes: Enhanced Instrument pack for Musician. Patched by Anderya-ArgentDawn.
+## Notes: Enhanced Instrument pack for Musician.
 
 core\MusicianFX.lua
 
