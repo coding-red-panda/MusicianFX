@@ -1,5 +1,9 @@
 # MusicianFX CHANGELOG
 
+## 1.0.5
+
+* Bumped TOC for Patch 110207 (The Warning)
+
 ## 1.0.4
 
 * Bumped TOC for Patch 110205 (Legion Remix)
