@@ -1,7 +1,7 @@
-## Interface: 110105, 110107, 110100, 110200, 110205m 110207
+## Interface: 110105, 110107, 110100, 110200, 110205, 110207
 ## Title: MusicianFX
 ## Author: Keento
-## Version: 1.0.5
+## Version: 1.0.6
 ## IconTexture: Interface\Icons\inv_offhand_1h_ardenweald_d_01.blp
 ## RequiredDeps: Musician
 ## DefaultState: Enabled

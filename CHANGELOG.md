@@ -1,5 +1,9 @@
 # MusicianFX CHANGELOG
 
+## 1.0.6
+
+* Fixed typo in the TOC for Patch 110207
+* 
 ## 1.0.5
 
 * Bumped TOC for Patch 110207 (The Warning)
