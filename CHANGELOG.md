@@ -1,5 +1,10 @@
 # MusicianFX CHANGELOG
 
+## 1.1.2
+
+* Add missing `IsComplete` function for the blocker.
+* Add missing `AbortQuickPreloading` function for the blocker.
+
 ## 1.1.1
 
 * Add missing `GetProgress` function for the blocker.
