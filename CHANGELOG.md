@@ -1,5 +1,9 @@
 # MusicianFX CHANGELOG
 
+## 1.1.1
+
+* Add missing `GetProgress` function for the blocker.
+
 ## 1.1.0
 
 * Disable the Musician Preloading of sound-files.

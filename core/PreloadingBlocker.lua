@@ -8,4 +8,5 @@ Musician.Preloader = {
     Init = function() end,
     QuickPreloadingIsComplete = function() return true end,
     OnUpdate = function(_) end,
+    GetProgress = function() return 1 end,
 }
