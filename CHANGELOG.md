@@ -1,5 +1,9 @@
 # MusicianFX CHANGELOG
 
+## 1.1.0
+
+* Disable the Musician Preloading of sound-files.
+
 ## 1.0.6
 
 * Fixed typo in the TOC for Patch 110207
