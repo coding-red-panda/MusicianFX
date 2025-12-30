@@ -1,5 +1,9 @@
 # MusicianFX CHANGELOG
 
+## 1.2.0
+
+* Removing the PreloadBlocker, we don't want to fight Musician's internals.
+
 ## 1.1.2
 
 * Add missing `IsComplete` function for the blocker.

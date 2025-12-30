@@ -1,7 +1,7 @@
 ## Interface: 110105, 110107, 110100, 110200, 110205, 110207, 120000
 ## Title: MusicianFX
 ## Author: Keento
-## Version: 1.1.2
+## Version: 1.2.0
 ## IconTexture: Interface\Icons\inv_offhand_1h_ardenweald_d_01.blp
 ## RequiredDeps: Musician
 ## DefaultState: Enabled
@@ -9,6 +9,5 @@
 ## Notes: Enhanced Instrument pack for Musician
 
 core\MusicianFX.lua
-core\PreloadingBlocker.lua
 constants\MusicianFX.Instruments.lua
 locale\locale.xml
