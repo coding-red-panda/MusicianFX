@@ -1,5 +1,9 @@
 # MusicianFX CHANGELOG
 
+## 1.2.1
+
+* Add PostHook to immediately hide the `MusicianLoadingScreen`
+
 ## 1.2.0
 
 * Removing the PreloadBlocker, we don't want to fight Musician's internals.
