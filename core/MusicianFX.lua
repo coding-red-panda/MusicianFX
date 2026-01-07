@@ -12,7 +12,8 @@ local GetAddOnMetadata = C_AddOns and C_AddOns.GetAddOnMetadata or GetAddOnMetad
 --- OnInitialize
 --
 function MusicianFX:OnInitialize()
-
+    -- Fix audio settings
+    Musician.Utils.AdjustAudioSettings()
 end
 
 -- Append MusicianFX version in the global version string

@@ -1,5 +1,20 @@
 # MusicianFX CHANGELOG
 
+## 2.0.0
+
+* Removed Instrument overwriting
+* Added new Instruments
+* Change the mapping:
+  * Clarinet FX (**TenorSax : 66**)
+  * Distortion Guitar FX (**DistortionGuitar : 30**)
+  * Guitar FX (**AcousticGuitarNylon : 24**)
+  * Harp FX (**TremoloStrings : 44**)
+  * Lute FX (**PizzicatoStrings : 45**)
+  * Piano Roland FX (**BrightAcousticPiano : 1**)
+  * Piano Yamaha FX (**ElectricGrandPiano  : 2**)
+  * Recorder FX (**Whistle : 78**)
+  * Violin FX (**Violin : 40**)
+
 ## 1.2.1
 
 * Add PostHook to immediately hide the `MusicianLoadingScreen`
