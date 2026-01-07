@@ -1,5 +1,9 @@
 # MusicianFX CHANGELOG
 
+## 2.0.1
+
+* Fixed the sound files for the `Piano Yamaha FX` instrument.
+
 ## 2.0.0
 
 * Removed Instrument overwriting
