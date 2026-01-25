@@ -1,12 +1,24 @@
-## Interface: 110105, 110107, 110100, 110200, 110205, 110207, 120000
+## Interface: 110105, 110107, 110100, 110200, 110205, 110207, 120000, 120001
 ## Title: MusicianFX
 ## Author: Keento
 ## Version: 2.0.1
-## IconTexture: Interface\Icons\inv_offhand_1h_ardenweald_d_01.blp
+## IconTexture: Interface\Icons\8xp_vulperaflute.blp
 ## RequiredDeps: Musician
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 ## Notes: Enhanced Instrument pack for Musician
+## Category-enUS: Roleplay
+## Category-deDE: Rollenspiel
+## Category-esES: Juego de rol
+## Category-esMX: Juego de rol
+## Category-frFR: Jeu de rôle
+## Category-itIT: Gioco di Ruolo
+## Category-koKR: 롤플레잉
+## Category-ptBR: Interpretação de Papel
+## Category-ruRU: Ролевая игра
+## Category-zhCN: 角色扮演
+## Category-zhTW: 角色扮演
+## Group: Musician
 
 core\MusicianFX.lua
 core\Instruments.lua

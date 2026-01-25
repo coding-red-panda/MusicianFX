@@ -1,5 +1,10 @@
 # MusicianFX CHANGELOG
 
+## 2.0.2
+
+* Bumped the version to be compatible with the latest `_retail` release.
+* Added a custom Icon for MusicianFX.
+
 ## 2.0.1
 
 * Fixed the sound files for the `Piano Yamaha FX` instrument.
