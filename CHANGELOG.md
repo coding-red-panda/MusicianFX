@@ -2,6 +2,10 @@
 
 ## 2.0.2
 
+* Changed the mapping for the `HarpFX` to `Harpsichord`.
+
+## 2.0.2
+
 * Bumped the version to be compatible with the latest `_retail` release.
 * Added a custom Icon for MusicianFX.
 

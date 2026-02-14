@@ -1,4 +1,4 @@
-﻿-- Instrument Mapping
+-- Instrument Mapping
 --
 -- We need to assign each instrument as well otherwise, it won't be properly
 -- selectable from the UI.
@@ -50,5 +50,5 @@ Musician.MIDI_INSTRUMENT_MAPPING[Musician.MIDI_INSTRUMENTS.BrightAcousticPiano ]
 Musician.MIDI_INSTRUMENT_MAPPING[Musician.MIDI_INSTRUMENTS.ElectricGrandPiano] = "piano_yamaha_fx"
 Musician.MIDI_INSTRUMENT_MAPPING[Musician.MIDI_INSTRUMENTS.Whistle] = "recorder_fx"
 Musician.MIDI_INSTRUMENT_MAPPING[Musician.MIDI_INSTRUMENTS.Violin] = "violin_fx"
-Musician.MIDI_INSTRUMENT_MAPPING[Musician.MIDI_INSTRUMENTS.TremoloStrings] = "harp_fx"
+Musician.MIDI_INSTRUMENT_MAPPING[Musician.MIDI_INSTRUMENTS.OrchestralHarp] = "harp_fx"
 Musician.MIDI_INSTRUMENT_MAPPING[Musician.MIDI_INSTRUMENTS.PizzicatoStrings] = "lute_fx"

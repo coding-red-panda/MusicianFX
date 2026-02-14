@@ -65,7 +65,7 @@ if Musician.INSTRUMENTS["harp_fx"] == nil then
         decay = 500,
         isPercussion = false,
         isPlucked = true,
-        midi = Musician.MIDI_INSTRUMENTS.TremoloStrings,
+        midi = Musician.MIDI_INSTRUMENTS.Harpsichord,
         color = Musician.COLORS.LightYellow,
         source = "Harp FX"
     }
