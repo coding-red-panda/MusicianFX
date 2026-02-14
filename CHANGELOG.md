@@ -1,6 +1,6 @@
 # MusicianFX CHANGELOG
 
-## 2.0.2
+## 2.0.3
 
 * Changed the mapping for the `HarpFX` to `Harpsichord`.
 
