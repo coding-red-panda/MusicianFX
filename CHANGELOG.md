@@ -1,5 +1,9 @@
 # MusicianFX CHANGELOG
 
+## 2.1.1
+
+* Bump interface version to match game version
+
 ## 2.1.0
 
 * Bump interface version to match game version
