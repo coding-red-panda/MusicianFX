@@ -1,5 +1,9 @@
 # MusicianFX CHANGELOG
 
+## 3.0.0
+
+- Add support for WoW Forever
+
 ## 2.1.1
 
 * Bump interface version to match game version
